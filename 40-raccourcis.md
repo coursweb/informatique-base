@@ -8,7 +8,7 @@ Utiliser le clavier. Raccourcis clavier. Trouver les combinaisons de touche pour
 
 ## Raccourcis classiques ⌘-Z, ⌘-X, ⌘-C, ⌘-V
 
-Selon Wikipédia:
+Selon [Wikipédia](https://en.wikipedia.org/wiki/Cut,_copy,_and_paste):
 
 > Larry Tesler created the concept of **cut**, **copy**, **paste**, and **undo** for human-computer interaction while working at Xerox PARC to control text editing. During the development of the Macintosh it was decided that the cut, paste, copy and undo would be used frequently and assigned them to the ⌘-Z (Undo), ⌘-X (Cut), ⌘-C (Copy), and ⌘-V (Paste).
 
